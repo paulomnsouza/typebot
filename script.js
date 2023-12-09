@@ -101,7 +101,7 @@ if (!document.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://typebot-template.netlify.app/whatsapp-dark/style.css';
+    link.href = 'https://fantastic-marigold-ec3cff.netlify.app/style.css';
     link.media = 'all';
     head.appendChild(link);
 }
