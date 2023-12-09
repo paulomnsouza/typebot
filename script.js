@@ -42,7 +42,6 @@ function criarBarra(var_nome, var_avatar) {
   userBar.appendChild(backButton);
   userBar.appendChild(avatar);
   userBar.appendChild(name);
-  userBar.appendChild(speedControl); // Adicionando o controle de velocidade
   userBar.appendChild(moreActions);
   userBar.appendChild(phoneAction);
   userBar.appendChild(attachmentAction);
